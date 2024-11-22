@@ -1,0 +1,35 @@
+{
+    "name": "Genesis AI",
+    "short_name": "Genesis",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Genesis AI is here to help you find answers, spark your creativity, and get things done. It's free and easy to use—just create a Bytarch account, ask your questions, and Genesis can assist with writing, brainstorming, and much more! Unlock even more powerful features with our premium plan.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "logo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "logo.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "logo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
