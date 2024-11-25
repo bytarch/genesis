@@ -7,8 +7,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "6a4cd3ca7e2a97fc1bbc89526df72fca
 "assets/AssetManifest.bin.json": "e4e3f25f11ff5f8ee6e5a190eacae895",
 "assets/AssetManifest.json": "642112c59ad5d69838ae1b7e8f9a2f16",
 "assets/FontManifest.json": "11bd9b3eb20d86ccdb3084b115dfc509",
-"assets/fonts/MaterialIcons-Regular.otf": "b9a4c4eeba48e1f7068ef81195576d3a",
-"assets/NOTICES": "a85606c87fe70f69b71d11fe257789d5",
+"assets/fonts/MaterialIcons-Regular.otf": "962c049dcb067782b43fecb44ab9a6c4",
+"assets/NOTICES": "2881706cb969d4d8ebd3ef76ff8aa6bc",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_AMS-Regular.ttf": "657a5353a553777e270827bd1630e467",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Caligraphic-Bold.ttf": "a9c8e437146ef63fcd6fae7cf65ca859",
@@ -43,7 +43,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "6a4cd3ca7e2a97fc1bbc89526df72fca
 "canvaskit/skwasm.wasm": "9f0c0c02b82a910d12ce0543ec130e60",
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"flutter_bootstrap.js": "697fd469d7b3767bc1d23f2867425cbe",
+"flutter_bootstrap.js": "796e3ba7e08666e1025a4ec588d34802",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -51,9 +51,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "6a4cd3ca7e2a97fc1bbc89526df72fca
 "index.html": "2039daeaebe960719691ddc7f3dcc55a",
 "/": "2039daeaebe960719691ddc7f3dcc55a",
 "logo.png": "99875c1f3eaeb2ef5c5d147ee90eb8d4",
-"main.dart.js": "fcc610f3966d9431076f9400e99ff43c",
+"main.dart.js": "497beb1bcbbd623dd6c770bb3162bffc",
 "manifest.json": "1596d3e2d0faddef5cde326eaf0f9d72",
-"script.js": "6ab09c5924e7cbd92e927d3839eda3a3",
 "version.json": "d5b7f4a86a7b5908faab5a40108559cc"};
 // The application shell files that are downloaded before a service worker can
 // start.
